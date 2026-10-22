@@ -1,2 +1,2 @@
-# qa_system
-智慧教育问答系统
+# CampusPulse2.7
+高校公告采集
